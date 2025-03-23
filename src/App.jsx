@@ -12,7 +12,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <Router>
-      <div className="font-sans bg-gray-100 min-h-screen">
+      <div className="font-sans bg-[#495376] min-h-screen">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
