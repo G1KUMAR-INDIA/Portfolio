@@ -3,6 +3,20 @@ const Projects = () => {
       <section className="p-10">
         <div className="flex flex-wrap">
           <div>
+            <div className="mb-10 ">
+                <div>
+                    <h2 class="text-3xl font-semibold mb-4 text-red-600">Class 6-10 Resources</h2>
+                    <ul class="text-[#E720B9] underline list-decimal ml-6 text-lg">
+                        <li><a class="mr-4" href="" target="_blank">6<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="" target="_blank">7<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="" target="_blank">8<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="" target="_blank">9<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="" target="_blank">10<sup>th</sup> Class</a></li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+          <div>
             <h2 className="text-3xl font-semibold mb-4 text-red-600">Projects</h2>
             <p className="text-lg text-[#3FC965]">Check out my recent Project:</p>
             <ul className="text-[#E720B9] underline list-decimal ml-6 text-lg">
