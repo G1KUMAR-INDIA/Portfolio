@@ -10,8 +10,8 @@ const Projects = () => {
                         <li><a class="mr-4" href="" target="_blank">6<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="" target="_blank">7<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="" target="_blank">8<sup>th</sup> Class</a></li>
-                        <li><a class="mr-4" href="" target="_blank">9<sup>th</sup> Class</a></li>
-                        <li><a class="mr-4" href="" target="_blank">10<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="https://drive.google.com/drive/folders/1hN00tFpR1hhfZv6W86V0QVg2BYRn4fnQ?usp=drive_link" target="_blank">9<sup>th</sup> Class</a></li>
+                        <li><a class="mr-4" href="https://drive.google.com/drive/folders/1areYt-8vk8NYqxc8ZDTma-qi94zy50o5?usp=drive_link" target="_blank">10<sup>th</sup> Class</a></li>
                     </ul>
                 </div>
             </div>
