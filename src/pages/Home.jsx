@@ -56,9 +56,22 @@ const Home = () => {
           </div>
         </div>
         <div className="justify-items-center" width="560" height="315">            
-            <p className="text-2xl text-red-500">Reddyvari Jeevan Kumar B.Tech(EEE)</p>
+            <p className="text-2xl text-red-500">Reddyvari Jeevan Kumar <sub>B.Tech(EEE)</sub></p>
             <p className="text-xl text-yellow-600"  >Full Stack Developer(MERN+Python).</p>        
-        </div>        
+        <div className="flex">
+            <span className="font-semibold w-24 text-red-500">Email:</span>
+            <span className="text-red-500">g1kumar215@gmail.com</span>
+          </div>
+          <div className="flex items-start">
+            <span className="font-semibold w-24 text-red-500">Address:</span>
+            <span className="text-red-500">
+              #2-85, KVS Street, 2nd Cross,<br />
+              Oldpet, Palamaner,<br />
+              Chittoor Dist, Andhra Pradesh - 517408
+            </span>
+          </div>
+        </div>  
+              
       </div>
       
     );
