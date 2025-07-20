@@ -62,6 +62,10 @@ const Home = () => {
             <span className="font-semibold w-24 text-red-500">Email:</span>
             <span className="text-red-500">g1kumar215@gmail.com</span>
           </div>
+          <div className="flex">
+            <span className="font-semibold w-24 text-red-50">Phone:</span>
+            <span className="text-red-50">+91-8501891921</span>
+          </div>
           <div className="flex items-start">
             <span className="font-semibold w-24 text-red-500">Address:</span>
             <span className="text-red-500">
