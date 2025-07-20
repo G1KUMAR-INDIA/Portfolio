@@ -59,16 +59,16 @@ const Home = () => {
             <p className="text-2xl text-red-500">Reddyvari Jeevan Kumar <sub>B.Tech(EEE)</sub></p>
             <p className="text-xl text-yellow-600"  >Full Stack Developer(MERN+Python).</p>        
         <div className="flex">
-            <span className="font-semibold w-24 text-red-500">Email:</span>
-            <span className="text-red-500">g1kumar215@gmail.com</span>
+            <span className="font-semibold w-24 text-blue-500 text-center">Email:</span>
+            <span className="text-red-500 text-center">g1kumar215@gmail.com</span>
           </div>
           <div className="flex">
-            <span className="font-semibold w-24 text-red-50">Phone:</span>
-            <span className="text-red-500">+91-8501891921</span>
+            <span className="font-semibold w-24 text-blue-500 text-center">Phone:</span>
+            <span className="text-red-500 text-center">+91-8501891921</span>
           </div>
           <div className="flex items-start">
-            <span className="font-semibold w-24 text-red-500">Address:</span>
-            <span className="text-red-500">
+            <span className="font-semibold w-24 text-blue-500 text-center">Address:</span>
+            <span className="text-red-500 text-center">
               #2-85, KVS Street, 2nd Cross,<br />
               Oldpet, Palamaner,<br />
               Chittoor Dist, Andhra Pradesh - 517408
