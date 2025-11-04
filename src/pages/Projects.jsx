@@ -5,13 +5,20 @@ const Projects = () => {
           <div>
             <div className="mb-10 ">
                 <div>
-                    <h2 class="text-3xl font-semibold mb-4 text-red-600">Class 6-10 Resources</h2>
+                    <h2 class="text-3xl font-semibold mb-4 text-red-600">Class 1-10 Resources</h2>
                     <ul class="text-[#E720B9] underline list-decimal ml-6 text-lg">
+                         <li><a class="mr-4" href="" target="_blank">1<sup>th</sup> Class</a></li>
+                          <li><a class="mr-4" href="" target="_blank">2<sup>th</sup> Class</a></li>
+                           <li><a class="mr-4" href="" target="_blank">3<sup>th</sup> Class</a></li>
+                            <li><a class="mr-4" href="" target="_blank">4<sup>th</sup> Class</a></li>
+                             <li><a class="mr-4" href="" target="_blank">5<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="" target="_blank">6<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="" target="_blank">7<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="" target="_blank">8<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="https://drive.google.com/drive/folders/1hN00tFpR1hhfZv6W86V0QVg2BYRn4fnQ?usp=drive_link" target="_blank">9<sup>th</sup> Class</a></li>
                         <li><a class="mr-4" href="https://drive.google.com/drive/folders/1areYt-8vk8NYqxc8ZDTma-qi94zy50o5?usp=drive_link" target="_blank">10<sup>th</sup> Class</a></li>
+                         <li><a class="mr-4" href="" target="_blank">11<sup>th</sup> Class</a></li>
+                          <li><a class="mr-4" href="" target="_blank">12<sup>th</sup> Class</a></li>
                     </ul>
                 </div>
             </div>
